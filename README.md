@@ -1,1 +1,3 @@
 # vim_config
+
+This repository contains some basic vim settings that I use on Linux...
