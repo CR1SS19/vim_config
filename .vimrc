@@ -33,6 +33,9 @@ set number
 " GUI color support
 set termguicolors 
 
+" Turn on syntax highlighting
+syntax on
+
 " Persistent undo function
 set undofile
 if !isdirectory(expand("$HOME/.vim/undodir"))
